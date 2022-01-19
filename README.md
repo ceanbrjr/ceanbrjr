@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/zyJlnE1T7sDsNdoxJA/giphy.gif" width="50"> <b>About me...</b>
 
 ```javascript
-const: CJunior = {
+const CJunior = {
   pronouns: "He" | "His",
   currentlyLearning: "Web Development Full-Stack",
   code: [Javascript, Typescript, HTML, CSS, MySQL],
@@ -16,6 +16,6 @@ const: CJunior = {
     labenu: "Night Gebru Class"
   },
    
-  curiousFact: "I'm Aspie!🧩"
+  curiousFact: "I've Asperger!"
 }
 ```
