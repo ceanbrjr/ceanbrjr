@@ -16,6 +16,6 @@ const CJunior = {
     labenu: "Night Gebru Class"
   },
    
-  curiousFact: "I've Asperger!"
+  curiousFact: "I've Asperger!!"
 }
 ```
